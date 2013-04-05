@@ -1,5 +1,4 @@
-# aaa
+# AAA
 # this is README.
 # BBB
-# bbb
 # CCC
